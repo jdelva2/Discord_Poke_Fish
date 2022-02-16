@@ -14,12 +14,9 @@ Possible bugs may display multiple casting if the bot is playing by itself or wi
 The message list may need to be adjusted to be more or less depending on active players sending messages.
 Changing parameters will depend on number of players active.
 
-           CHART  
-   Players  |  Messages(~Line 55) |  
-   1 (bot)  |         6           |  
-     2      |         26          |  
-     3      |         51          |  
-     4      |         76          |     
+CHART
+players   1  2  3  4  5  
+messages  6 26 51 76 101
 
 
 Another feature that was in the process of being added was the BIG_FISH event which would have the bot wait until another new message appears.
