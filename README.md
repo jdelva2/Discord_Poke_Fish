@@ -14,10 +14,10 @@ Possible bugs may display multiple casting if the bot is playing by itself or wi
 The message list may need to be adjusted to be more or less depending on active players sending messages.
 Changing parameters will depend on number of players active.
 
-CHART  
-players   1  2  3  4  5  
-messages  6 26 51 76 101
+i.e if the bot is playing solo, the number of messages that it checks will be lower ~6 
+if there are around 5-6 people actively playing the number might need to be increase to around 120.
 
 
-Another feature that was in the process of being added was the BIG_FISH event which would have the bot wait until another new message appears.
-This was added within the conditional check but allowed the program to "pass".
+Another feature that was in the process of being added was the BIG_FISH event which would have the bot wait until another new message appears. This was added within the conditional check but allowed the program to "pass".
+It is a rare event which does not happen often however part of the fix will be to include this. For now the bot is able to catch common event items, pokemon and recasts reel if the line broke.
+
