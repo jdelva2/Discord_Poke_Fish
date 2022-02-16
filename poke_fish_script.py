@@ -29,10 +29,10 @@ def reel_in():
 # Retrieves GET message from parabot to reel in catch or wait. repeat every 2 minutes
 def get_message():
     L = []
-    loot_message = "@CrownBlue! Something's caught on the hook!"
-    poke_message = "Oh! @CrownBlue! A bite!"
-    no_nibble_message = "@CrownBlue, try a different route. There's not even a nibble.."
-    BIG_FISH = "@CrownBlue, something massive is on the line! It's putting up a fight.. Get ready to reel!"
+    loot_message = "@Pepe Parker! Something's caught on the hook!"
+    poke_message = "Oh! @Pepe Parker! A bite!"
+    no_nibble_message = "@Pepe Parker, try a different route. There's not even a nibble.."
+    BIG_FISH = "@Pepe Parker, something massive is on the line! It's putting up a fight.. Get ready to reel!"
     #BIG_FISH_2 = ""
     
     req = requests.get(request_url, headers = header)
