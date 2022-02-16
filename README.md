@@ -14,7 +14,7 @@ Possible bugs may display multiple casting if the bot is playing by itself or wi
 The message list may need to be adjusted to be more or less depending on active players sending messages.
 Changing parameters will depend on number of players active.
 
-CHART
+CHART  
 players   1  2  3  4  5  
 messages  6 26 51 76 101
 
