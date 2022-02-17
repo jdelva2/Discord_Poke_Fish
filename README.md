@@ -3,7 +3,7 @@
 Discord Pokemon is a text to play game which is based on the Pokemon games. Players may be able to use certain commands to 
 explore and catch pokemon. This small project was created to help a friend up their fishing game!
 
-This small project specifically allows a user to automate their experience in the game by catching pokemon automatically
+This small NLP project specifically allows a user to automate their experience in the game by catching pokemon automatically
 for you while fishing. Using API request calls we can send certain text commands to play for us! This saves the player time and prevents them
 them from losing an opportunity on an important pokemon catch!
 
