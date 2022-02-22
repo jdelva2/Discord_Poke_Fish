@@ -1,4 +1,4 @@
-# INTRODUCTION:
+## INTRODUCTION:
 
 Discord Pokemon is a text to play game which is based on the Pokemon games. Players may be able to use certain commands to 
 explore and catch pokemon. This small project was created to help a friend up their fishing game!
@@ -8,9 +8,9 @@ for you while fishing. Using API request calls we can send certain text commands
 them from losing an opportunity on an important pokemon catch!
 
 
-# CODE BUGS:
+## Minor bugs:
 
-Possible bugs may display multiple casting if the bot is playing by itself or with too many people.
+Possible bugs may display multiple casting if the bot is playing by itself or with multiple people.
 The message list may need to be adjusted to be more or less depending on active players sending messages.
 Changing parameters will depend on number of players active.
 
